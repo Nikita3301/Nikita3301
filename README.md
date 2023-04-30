@@ -95,8 +95,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-      <img align="left" height=170 src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3301&theme=react&border=61dafb&hide_border=true" />
-      <img align="right" height=170 src="https://github-readme-stats.vercel.app/api?username=Nikita3301&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3301&theme=react&border=61dafb&hide_border=true" />
+      <img align="right"width=45% src="https://github-readme-stats.vercel.app/api?username=Nikita3301&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       
 <br><br><br><br><br><br><br>
 <div align=center>
