@@ -98,7 +98,7 @@
       <img align="left" height=170 src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3301&theme=react&border=61dafb&hide_border=true" />
       <img align="right" height=170 src="https://github-readme-stats.vercel.app/api?username=Nikita3301&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       
-  <br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <div align=center>
 
 <img align=center width=390 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3301&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
@@ -120,7 +120,7 @@
   <a align="left" href="https://github.com/Nikita3301/pmp_notes_manager" title="Notes manager"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita3301&repo=pmp_notes_manager&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Nikita3301/TrainStationIS" title="TrainStationIS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita3301&repo=TrainStationIS&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <div align=center>
   <img src='https://64.media.tumblr.com/35d86ff903e401acb9a67631b504ffc4/tumblr_n63qbaQPMn1rpe379o1_500.gifv' align="center" width=240>
