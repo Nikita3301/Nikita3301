@@ -8,7 +8,6 @@
    <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
    Languages & Frameworks & Tools & Abilities
 </h2>
-<hr>
 
 <h3 align="center">
    💻 IDEs/Editors
